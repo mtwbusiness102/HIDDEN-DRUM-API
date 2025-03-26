@@ -1,0 +1,11 @@
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/bin/Debug/net9.0/HIDDEN.DRUM.Domain.deps.json
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/bin/Debug/net9.0/HIDDEN.DRUM.Domain.dll
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/bin/Debug/net9.0/HIDDEN.DRUM.Domain.pdb
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.AssemblyInfoInputs.cache
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.AssemblyInfo.cs
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.csproj.CoreCompileInputs.cache
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.dll
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/refint/HIDDEN.DRUM.Domain.dll
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/HIDDEN.DRUM.Domain.pdb
+/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Domain/obj/Debug/net9.0/ref/HIDDEN.DRUM.Domain.dll

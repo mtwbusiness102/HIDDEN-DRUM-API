@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gThHfIr1x3Y=",
+  "success": true,
+  "projectFilePath": "/Users/mtw/Desktop/HIDDEN-DRUM-API/HIDDEN.DRUM.Api/HIDDEN.DRUM.APi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mtw/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/mtw/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
