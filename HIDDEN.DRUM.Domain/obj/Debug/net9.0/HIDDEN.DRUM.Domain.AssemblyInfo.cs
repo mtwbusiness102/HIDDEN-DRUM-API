@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HIDDEN.DRUM.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c5105214a0a73b192d4ba0d596ac9869ed14ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("HIDDEN.DRUM.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HIDDEN.DRUM.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
